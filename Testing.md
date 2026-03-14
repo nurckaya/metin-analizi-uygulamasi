@@ -1,5 +1,7 @@
 # Test Raporu
 
+# Testlerde MLpdf dosyası girdi olarak kullanılmıştır.
+
 ## 1. Türkçe Soru
 
 ![Analiz Sonucu](images/turkcesoru1.PNG)
@@ -12,3 +14,4 @@
 
 
 ## İngilizce prompt testi denenemedi, LLM kotası sebebiyle. 
+## Uygulama yalnızca pdf kabul etmektedir. 
