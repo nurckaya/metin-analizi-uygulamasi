@@ -1,6 +1,13 @@
 # metin-analizi-uygulamasi
 LLM tabanlı metin analizi
 
-command window üzerinden şu kodu çalıştırın:
+Uygulamayı çalıştırmak için: 
 
-streamlit run app.py
+1. pip install requirements.txt
+2. streamlit run app.py
+
+command window üzerinden çalıştırın. 
+
+
+
+
